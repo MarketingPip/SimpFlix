@@ -50,14 +50,15 @@ body {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
-.text1{
-   position: absolute;
+.text1 {
+    position: absolute;
     top: 75%;
-    right: 3%;
-  color:white;
-  font-size:26px;
-  font-family: "Arial";
-  font-weight: bold;
+    right: 1%;
+    color: white;
+    font-size: 33px;
+    font-family: "Arial";
+    font-weight: bold;
+    width: fit-content;
 }
 ul {
   list-style-type: square;
@@ -67,6 +68,8 @@ ul {
 }
 
 .logo img{
+     position: absolute;
+    left: 2%;
   height:65px;
   width:120px;
 }
